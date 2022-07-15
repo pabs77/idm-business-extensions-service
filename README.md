@@ -25,7 +25,7 @@ Please refer to the [Wiki Page](https://github.com/SAP-samples/idm-business-exte
 * Mass Jobs for Download like Config Item Download are not working with SP05. Fixed with Patch 1.
 * Mass Jobs in state running will not lead to error state if started again with SP05 due to modification of behaviour of SWITCH cases. Fixed with Patch 1.
 
-## Relase Notes 
+## Release Notes 
 
 * SCIM connector package with IAS Support
 * Re-implementation of the rule engine
